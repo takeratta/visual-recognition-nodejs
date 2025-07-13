@@ -57,9 +57,9 @@
     "csurf": "^1.9.0",
     "dotenv": "^4.0.0",
     "express": "^4.15.4",
-    "express-browserify": "^1.0.2",
+    "express-browserify": "^1.0.3",
     "express-rate-limit": "^2.9.0",
-    "express-status-monitor": "^1.0.0",
+    "express-status-monitor": "^1.2.5",
     "extend": "^3.0.1",
     "helmet": "^3.10.0",
     "jade": "^1.11.0",
@@ -69,11 +69,11 @@
     "multer": "^1.3.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "uglifyify": "^4.0.3",
     "uuid": "^3.2.1",
     "vcap_services": "0.3.4",
-    "watson-developer-cloud": "^2.39.0"
+    "watson-developer-cloud": "^4.0.1"
   },
   "devDependencies": {
     "casperjs": "^1.1.4",
